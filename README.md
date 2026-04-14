@@ -2,7 +2,7 @@
 
 **'Desenvolvedor FullStack'**
 
-Me chamo Gabriel, tenho 24 anos, natural de São Paulo. Após a conclusão do meu ensino médio, cursei algumas faculdades na área da saúde até me encontrar de fato na informática (meu emprego atual), desenvolvi uma forte paixão por computadores, sempre fui bom em resolver problemas e vi na programação uma chance de unir as duas coisas. Estou finalizando meu cursando minha pós graduação de Desenvolvimento FullStack na Libano, enquanto faço cursos correlatos e trabalhos autônomos. Espero que o meu portifólio seja de agrado, se chegou até aqui já somos chegados, então pegue o seu café e aproveite o que puder daqui!
+Me chamo Gabriel, tenho 24 anos, natural de São Paulo. Após a conclusão do meu ensino médio, cursei algumas faculdades na área da saúde até me encontrar de fato na informática (meu emprego atual), desenvolvi uma forte paixão por computadores, sempre fui bom em resolver problemas e vi na programação uma chance de unir as duas coisas. Estou cursando minha pós graduação de Desenvolvimento FullStack na Libano, enquanto faço cursos correlatos e trabalhos autônomos. Espero que o meu portifólio seja de agrado, se chegou até aqui já somos chegados, então pegue o seu café e aproveite o que puder daqui!
 
 <p align="left">
     <a href="https://github.com/g-almeid-a?tab=repositories&sort=stargazers">
@@ -27,12 +27,12 @@ Me chamo Gabriel, tenho 24 anos, natural de São Paulo. Após a conclusão do me
 
 
 <img 
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-rigth: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img 
     align="left" 
@@ -91,12 +91,12 @@ Me chamo Gabriel, tenho 24 anos, natural de São Paulo. Após a conclusão do me
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
 <br/>
