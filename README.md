@@ -106,17 +106,11 @@ Me chamo Gabriel, tenho 24 anos, natural de São Paulo. Após a conclusão do me
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=g-almeid-a&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+    src="https://github-profile-trophy.vercel.app/?username=g-almeid-a&theme=tokyonight&no-frame=true&row=1&column=6"
   />
 
   <img 
-    align="left" 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-almeid-a&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=86400"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=g-almeid-a&theme=tokyo-night"
   />
 
   <img 
