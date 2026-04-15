@@ -108,23 +108,23 @@ Me chamo Gabriel, tenho 24 anos, natural de São Paulo. Após a conclusão do me
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=g-almeid-a&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img 
     align="left" 
     alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-almeid-a&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=86400"
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-almeid-a&theme=tokyonight&layout=compact&langs_count=9"
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Streak" 
+    height="180" 
+    src="https://streak-stats.demolab.com?user=g-almeid-a&theme=tokyonight&locale=pt_BR"
   />
 </p>
 
- <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-almeid-a&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=86400"
-  />
-</p>
+<br clear="both" />
