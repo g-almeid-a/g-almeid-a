@@ -117,8 +117,14 @@ Me chamo Gabriel, tenho 24 anos, natural de São Paulo. Após a conclusão do me
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-almeid-a&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-almeid-a&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=86400"
   />
 </p>
 
-<br clear="both" />
+ <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-almeid-a&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=86400"
+  />
+</p>
