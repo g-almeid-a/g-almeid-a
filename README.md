@@ -106,10 +106,6 @@ Me chamo Gabriel, tenho 24 anos, natural de São Paulo. Após a conclusão do me
 
 <p>
   <img 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  />
-
-  <img 
     align="left" 
     alt="GitHub Streak" 
     height="180" 
