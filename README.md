@@ -106,11 +106,7 @@ Me chamo Gabriel, tenho 24 anos, natural de São Paulo. Após a conclusão do me
 
 <p>
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=g-almeid-a&theme=tokyonight&no-frame=true&row=1&column=6"
-  />
-
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=g-almeid-a&theme=tokyo-night"
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   />
 
   <img 
